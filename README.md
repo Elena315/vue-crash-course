@@ -1,11 +1,19 @@
 # vue-crash-course
-Учебный проект Vue
 
-## Выполнила проект - Михно Елена
+## Project setup
+```
+npm install
+```
 
-### Технологии в проекте
-- HTML
-- CSS
-- JavaScript
-- Vue
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
